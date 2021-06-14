@@ -11,7 +11,6 @@ import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Map;
 
-import javax.sound.midi.Track;
 
 import br.edu.insper.desagil.backend.core.Endpoint;
 import br.edu.insper.desagil.backend.core.exception.APIException;
